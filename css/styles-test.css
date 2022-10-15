@@ -694,7 +694,7 @@ nav:hover {
   -webkit-transform-style: preserve-3d;
 }
 
-.card:hover .card-content {
+.card-content:hover {
   -webkit-transform: rotateY(.5turn);
 }
 
