@@ -818,7 +818,7 @@ content: '';
   font-family: "work sans", sans-serif;
   height: 100%;
   width: 100%;
-  overflow-y: scroll;
+  overflow-y: scroll!important;
   line-height: 1.5;
   padding-right: 5px;
 }
